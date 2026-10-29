@@ -1,0 +1,70 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-el-plantio-alicante",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T15:01:00+01:00",
+ "updated_at": "2026-10-29T15:10:00+01:00",
+ "business": {
+  "name": "El Plantío Golf Resort",
+  "legal_name": "Pay and Play, S.L.",
+  "registry_ids": [
+   "CIF B53479457",
+   "Registro Mercantil de Alicante, tomo 2340, folio 152, hoja A59344",
+   "Licencia turística AA-646"
+  ],
+  "url": "https://www.elplantio.com/",
+  "domain": "elplantio.com",
+  "municipality": "Alicante",
+  "province": "Alicante",
+  "address": "Antigua Carretera Alicante-Elche, km 3 · 03114 Alicante",
+  "phones": [
+   "+34 965 115 049"
+  ],
+  "emails": [
+   "reservas@elplantio.com"
+  ],
+  "sector": "apartamentos turísticos en un resort de golf en Alicante"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/El+Plant%C3%ADo+Golf+Resort/@38.3096893,-0.5401117,17z/data=!4m9!3m8!1s0xd62350a85e21ea9:0x8d8b21185c3e0d30!5m2!4m1!1i2!8m2!3d38.3096893!4d-0.5401117!16s%2Fg%2F1v42h419",
+  "date": "2026-10-29T12:16:29+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://plantiogolf.backhotelite.com/es/bookcore/availability/tomorrow/plantiogolf",
+   "ca": "https://plantiogolf.backhotelite.com/es/bookcore/availability/tomorrow/plantiogolf",
+   "en": "https://plantiogolf.backhotelite.com/en/bookcore/availability/tomorrow/plantiogolf",
+   "fr": "https://plantiogolf.backhotelite.com/en/bookcore/availability/tomorrow/plantiogolf"
+  },
+  "note": "Las reservas van al motor de reservas real del resort (plantiogolf.backhotelite.com, el mismo enlace de su boton RESERVA AHORA; version /en/ para ingles y frances); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.elplantio.com/",
+  "date": "2026-10-29T15:00:31+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: apartamentos turisticos con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

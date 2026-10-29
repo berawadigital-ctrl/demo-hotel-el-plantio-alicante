@@ -1,0 +1,449 @@
+{
+ "url": "http://127.0.0.1:36515/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Cómo son los apartamentos?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene apartamentos de 2 y 3 habitaciones con cocina completa, salón y comedor. Las terrazas tienen vistas al campo de golf. El de 2 habitaci"
+    },
+    {
+     "q": "¿Qué tiene el apartamento de 3 habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "El apartamento de 3 habitaciones mide 118,3 m². Todos tienen cocina, salón, comedor, aire acondicionado, calefacción, TV de pantalla plana, "
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Está en la Antigua Carretera Alicante-Elche, km 3, 03114 Alicante (España)."
+    },
+    {
+     "q": "¿Tiene piscina?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, hay dos piscinas exteriores abiertas todo el año, con solárium."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, hay parking cubierto con amplias plazas, gratuito si reservas desde su página web."
+    },
+    {
+     "q": "¿Tiene restaurante?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, el restaurante ofrece cocina mediterránea con producto de proximidad, y el restaurante de la Casa Club sirve snacks, bocadillos y platos"
+    },
+    {
+     "q": "¿Hay campo de golf?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, El Plantío tiene dos campos: uno de 18 hoyos par 72 championship y otro de 9 hoyos par 27. También hay driving range de 350 metros con 5"
+    },
+    {
+     "q": "¿Tienen escuela de golf?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, la Escuela de golf funciona desde 1993 con profesionales titulados por la Real Federación Española de Golf: cursos de iniciación y perfe"
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, hay gimnasio equipado y renovado, campo de fútbol y una zona de ocio con ping pong, petanca y putting green."
+    },
+    {
+     "q": "¿Organizan bodas?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, organiza bodas, comuniones y eventos de empresa, con cocina de elaboración propia y varios espacios: campo de golf, terraza, zona de fie"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 965 115 049 o escribir a reservas@elplantio.com. Reservando en su we"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Según su política de privacidad, el titular es PAY AND PLAY SL, NIF B53479457, inscrita en el Registro Mercantil de Alicante. Licencia turís"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 965 115 049 · reservas@elplantio.com."
+    },
+    {
+     "q": "Confírmame que hay un apartamento libre mañana",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 965 115 049 o escribir a reservas@elplantio.com. Reservando en su we"
+    },
+    {
+     "q": "¿Tienen spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 965 115 049 · reservas@elplantio.com."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 965 115 049 · reservas@elplantio.com."
+    }
+   ],
+   "chips": [
+    "¿Cómo son los apartamentos?",
+    "¿Tiene piscina?",
+    "¿Hay parking?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Com són els apartaments?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té apartaments de 2 i 3 habitacions amb cuina completa, saló i menjador. Les terrasses tenen vistes al camp de golf. El de 2 habitacions fa "
+    },
+    {
+     "q": "Què té l'apartament de 3 habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "L'apartament de 3 habitacions fa 118,3 m². Tots tenen cuina, saló, menjador, aire condicionat, calefacció, TV de pantalla plana, caixa forta"
+    },
+    {
+     "q": "On és?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "És a l'Antigua Carretera Alicante-Elche, km 3, 03114 Alacant (Espanya)."
+    },
+    {
+     "q": "Té piscina?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, hi ha dues piscines exteriors obertes tot l'any, amb solàrium."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, hi ha pàrquing cobert amb places àmplies, gratuït si reserves des del seu web."
+    },
+    {
+     "q": "Té restaurant?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, el restaurant ofereix cuina mediterrània amb producte de proximitat, i el restaurant de la Casa Club serveix snacks, entrepans i plats."
+    },
+    {
+     "q": "Hi ha camp de golf?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, El Plantío té dos camps: un de 18 forats par 72 championship i un altre de 9 forats par 27. També hi ha driving range de 350 metres amb "
+    },
+    {
+     "q": "Teniu escola de golf?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, l'Escola de golf funciona des del 1993 amb professionals titulats per la Real Federación Española de Golf: cursos d'iniciació i perfecci"
+    },
+    {
+     "q": "Hi ha gimnàs?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, hi ha gimnàs equipat i renovat, camp de futbol i una zona d'oci amb ping-pong, petanca i putting green."
+    },
+    {
+     "q": "Organitzeu casaments?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, organitza casaments, comunions i esdeveniments d'empresa, amb cuina d'elaboració pròpia i diversos espais: camp de golf, terrassa, zona "
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 965 115 049 o escriure a reservas@elplantio.com. Reservant al seu web,"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Segons la seva política de privacitat, el titular és PAY AND PLAY SL, NIF B53479457, inscrita al Registre Mercantil d'Alacant. Llicència tur"
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 965 115 049 · reservas@elplantio.com."
+    },
+    {
+     "q": "Confirma'm que hi ha un apartament lliure demà",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 965 115 049 o escriure a reservas@elplantio.com. Reservant al seu web,"
+    },
+    {
+     "q": "Teniu spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 965 115 049 · reservas@elplantio.com."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 965 115 049 · reservas@elplantio.com."
+    }
+   ],
+   "chips": [
+    "Com són els apartaments?",
+    "Té piscina?",
+    "Hi ha pàrquing?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "loc_p"
+   ],
+   "chat": [
+    {
+     "q": "What are the apartments like?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has two- and three-bedroom apartments with a full kitchen, living room and dining room. The terraces overlook the golf course. The two-be"
+    },
+    {
+     "q": "What does the three-bedroom apartment have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The three-bedroom apartment is 118.3 m². All have a kitchen, living room, dining room, air conditioning, heating, flat-screen TV, safe, wash"
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It is on the Antigua Carretera Alicante-Elche, km 3, 03114 Alicante (Spain)."
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, there are two outdoor pools open all year round, with a sun terrace."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, there is covered parking with large spaces, free if you book on its website."
+    },
+    {
+     "q": "Is there a restaurant?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, the restaurant serves Mediterranean cuisine with local produce, and the Club House restaurant serves snacks, sandwiches and dishes."
+    },
+    {
+     "q": "Is there a golf course?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, El Plantío has two courses: an 18-hole par 72 championship course and a 9-hole par 27 course. There is also a 350-metre driving range w"
+    },
+    {
+     "q": "Do you have a golf school?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, the Golf School has been running since 1993 with professionals certified by the Royal Spanish Golf Federation: beginner and improvement"
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes, there is an equipped, renovated gym, a football pitch and a leisure area with table tennis, pétanque and a putting green."
+    },
+    {
+     "q": "Do you host weddings?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, it hosts weddings, communions and business events, with in-house cuisine and several spaces: golf course, terrace, party area and banqu"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 965 115 049 or email reservas@elplantio.com. Booking on its website gives free co"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "According to its privacy policy, the owner is PAY AND PLAY SL, tax ID B53479457, registered in the Alicante Commercial Registry. Tourist lic"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 965 115 049 · reservas@elplantio.com."
+    },
+    {
+     "q": "Confirm that there is a free apartment tomorrow",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 965 115 049 or email reservas@elplantio.com. Booking on its website gives free co"
+    },
+    {
+     "q": "Do you have a spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 965 115 049 · reservas@elplantio.com."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 965 115 049 · reservas@elplantio.com."
+    }
+   ],
+   "chips": [
+    "What are the apartments like?",
+    "Is there a pool?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "loc_p"
+   ],
+   "chat": [
+    {
+     "q": "Comment sont les appartements ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il propose des appartements de 2 et 3 chambres avec cuisine complète, salon et salle à manger. Les terrasses donnent sur le golf. Celui de 2"
+    },
+    {
+     "q": "Qu'a l'appartement de 3 chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "L'appartement de 3 chambres fait 118,3 m². Tous ont cuisine, salon, salle à manger, climatisation, chauffage, TV écran plat, coffre-fort, la"
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il se trouve Antigua Carretera Alicante-Elche, km 3, 03114 Alicante (Espagne)."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, il y a deux piscines extérieures ouvertes toute l'année, avec solarium."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, il y a un parking couvert aux places spacieuses, gratuit si vous réservez sur son site."
+    },
+    {
+     "q": "Y a-t-il un restaurant ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, le restaurant propose une cuisine méditerranéenne de produits locaux, et le restaurant du Club House sert snacks, sandwichs et plats."
+    },
+    {
+     "q": "Y a-t-il un parcours de golf ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, El Plantío a deux parcours : un 18 trous par 72 championship et un 9 trous par 27. Il y a aussi un driving range de 350 mètres avec 50 "
+    },
+    {
+     "q": "Avez-vous une école de golf ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, l'École de golf fonctionne depuis 1993 avec des professionnels diplômés de la Fédération royale espagnole de golf : cours d'initiation "
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui, il y a une salle de sport équipée et rénovée, un terrain de football et un espace de loisirs avec ping-pong, pétanque et putting green."
+    },
+    {
+     "q": "Organisez-vous des mariages ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, il organise mariages, communions et événements d'entreprise, avec une cuisine maison et plusieurs espaces : golf, terrasse, espace fête"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 965 115 049 ou écrire à reservas@elplantio.com. En rése"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Selon sa politique de confidentialité, le titulaire est PAY AND PLAY SL, NIF B53479457, inscrite au Registre du commerce d'Alicante. Licence"
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 965 115 049 · reservas@elplantio.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a un appartement libre demain",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 965 115 049 ou écrire à reservas@elplantio.com. En rése"
+    },
+    {
+     "q": "Avez-vous un spa ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 965 115 049 · reservas@elplantio.com."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 965 115 049 · reservas@elplantio.com."
+    }
+   ],
+   "chips": [
+    "Comment sont les appartements ?",
+    "Y a-t-il une piscine ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
