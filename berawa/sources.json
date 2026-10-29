@@ -1,0 +1,80 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.elplantio.com/",
+ "read_at": "2026-10-29T15:01:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.elplantio.com/",
+   "sha256": "132d5f47fa6cbff92abb4734d5fcadbb9e129886eecc2de0731f12b9e5056783",
+   "chars": 894
+  },
+  {
+   "url": "https://www.elplantio.com/apartamentos.php",
+   "sha256": "a5f95c333430168eb73d6728e4c7d6575b113e403bb3cb7d1d07df5b2a1f9b08",
+   "chars": 1677
+  },
+  {
+   "url": "https://www.elplantio.com/contacto.php",
+   "sha256": "d05182204d407a200e920f1e7ba3cfc90fb8e19c7990cbef1bfd8d791526f65b",
+   "chars": 841
+  },
+  {
+   "url": "https://www.elplantio.com/cookies_politica.php",
+   "sha256": "069b3440cefb2e996dc3f20cb0250e6bb7f9cbb1a4763c8d430ca1734a3168ef",
+   "chars": 18227
+  },
+  {
+   "url": "https://www.elplantio.com/escuela.php",
+   "sha256": "af6640f8efd2877414d4441278a3c455faf0d93903b32ed153999d7ca31b5176",
+   "chars": 1914
+  },
+  {
+   "url": "https://www.elplantio.com/eventos.php",
+   "sha256": "16f444303f707fc07e47e2080e81069a63bcf291567629e9d3cb4fd92b54cc52",
+   "chars": 2957
+  },
+  {
+   "url": "https://www.elplantio.com/golf-servicios.php",
+   "sha256": "5987a71e0712cc226c43c744bfc3873c7fd45a1f5e583fdf071a84ecc26b0156",
+   "chars": 1631
+  },
+  {
+   "url": "https://www.elplantio.com/resort.php",
+   "sha256": "ccde4dca31e621a20077018e951bcdedb9f9710249bb00add7d5169ed89abd5f",
+   "chars": 968
+  },
+  {
+   "url": "https://www.elplantio.com/restaurante.php",
+   "sha256": "09f3b3848e74f5458368268f30ef33e7d5401056afe5576e8f681929a3be70b5",
+   "chars": 1551
+  },
+  {
+   "url": "https://www.elplantio.com/servicios.php",
+   "sha256": "b82fe0b5747aa920c1104aede98742d194c349211bec6aa8cd6eceac90ed0b0f",
+   "chars": 1654
+  }
+ ],
+ "other_pages_read": [
+  "https://www.elplantio.com/apartamentos.php?lang=en",
+  "https://www.elplantio.com/apartamentos.php?lang=es",
+  "https://www.elplantio.com/campo-golf.php",
+  "https://www.elplantio.com/campo-golf.php?lang=en",
+  "https://www.elplantio.com/campo-golf.php?lang=es",
+  "https://www.elplantio.com/canal_denuncias.php",
+  "https://www.elplantio.com/escuela.php?lang=en",
+  "https://www.elplantio.com/escuela.php?lang=es",
+  "https://www.elplantio.com/golf-par3.php",
+  "https://www.elplantio.com/golf-recorrido.php",
+  "https://www.elplantio.com/golf-torneos.php",
+  "https://www.elplantio.com/index.php",
+  "https://www.elplantio.com/index.php?lang=en",
+  "https://www.elplantio.com/index.php?lang=es",
+  "https://www.elplantio.com/resort.php?lang=en",
+  "https://www.elplantio.com/resort.php?lang=es",
+  "https://www.elplantio.com/restaurante.php?lang=en",
+  "https://www.elplantio.com/restaurante.php?lang=es",
+  "https://www.elplantio.com/servicios.php?lang=en",
+  "https://www.elplantio.com/servicios.php?lang=es"
+ ]
+}

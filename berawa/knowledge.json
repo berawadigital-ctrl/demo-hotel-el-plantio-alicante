@@ -1,0 +1,592 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-el-plantio-alicante",
+ "source_site": "https://www.elplantio.com/",
+ "source_read_at": "2026-10-29T15:01:00+01:00",
+ "note": "Respuestas solo con datos publicados en elplantio.com, sin precios. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "apartamentos",
+   "keys": {
+    "es": [
+     "como son los apartamentos",
+     "que apartamentos",
+     "apartamentos",
+     "alojamiento"
+    ],
+    "ca": [
+     "com son els apartaments",
+     "quins apartaments",
+     "apartaments",
+     "allotjament"
+    ],
+    "en": [
+     "apartments like",
+     "what apartments",
+     "apartments",
+     "accommodation"
+    ],
+    "fr": [
+     "comment sont les appartements",
+     "quels appartements",
+     "appartements",
+     "hebergement"
+    ]
+   },
+   "a": {
+    "es": "Tiene apartamentos de 2 y 3 habitaciones con cocina completa, salón y comedor. Las terrazas tienen vistas al campo de golf. El de 2 habitaciones mide 104,5 m².",
+    "ca": "Té apartaments de 2 i 3 habitacions amb cuina completa, saló i menjador. Les terrasses tenen vistes al camp de golf. El de 2 habitacions fa 104,5 m².",
+    "en": "It has two- and three-bedroom apartments with a full kitchen, living room and dining room. The terraces overlook the golf course. The two-bedroom one is 104.5 m².",
+    "fr": "Il propose des appartements de 2 et 3 chambres avec cuisine complète, salon et salle à manger. Les terrasses donnent sur le golf. Celui de 2 chambres fait 104,5 m²."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/apartamentos.php",
+     "quote": "Apartamentos de 2 y 3 habitaciones , equipados con una completa cocina y disponen de salón y comedor."
+    },
+    {
+     "url": "https://www.elplantio.com/apartamentos.php",
+     "quote": "Las terrazas de nuestros apartamentos deleitan a nuestros huéspedes con espectaculares vistas al campo de golf."
+    },
+    {
+     "url": "https://www.elplantio.com/apartamentos.php",
+     "quote": "Espaciosos y luminosos apartamentos de 104,5 m2"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "3 habitaciones",
+   "keys": {
+    "es": [
+     "3 habitaciones",
+     "tres habitaciones",
+     "equipamiento",
+     "lavadora",
+     "cocina"
+    ],
+    "ca": [
+     "3 habitacions",
+     "tres habitacions",
+     "equipament",
+     "rentadora",
+     "cuina"
+    ],
+    "en": [
+     "three-bedroom",
+     "three bedroom",
+     "3 bedroom",
+     "equipment",
+     "washing machine",
+     "kitchen"
+    ],
+    "fr": [
+     "3 chambres",
+     "trois chambres",
+     "equipement",
+     "lave-linge",
+     "cuisine"
+    ]
+   },
+   "a": {
+    "es": "El apartamento de 3 habitaciones mide 118,3 m². Todos tienen cocina, salón, comedor, aire acondicionado, calefacción, TV de pantalla plana, caja fuerte, lavadora y secadora.",
+    "ca": "L'apartament de 3 habitacions fa 118,3 m². Tots tenen cuina, saló, menjador, aire condicionat, calefacció, TV de pantalla plana, caixa forta, rentadora i assecadora.",
+    "en": "The three-bedroom apartment is 118.3 m². All have a kitchen, living room, dining room, air conditioning, heating, flat-screen TV, safe, washing machine and dryer.",
+    "fr": "L'appartement de 3 chambres fait 118,3 m². Tous ont cuisine, salon, salle à manger, climatisation, chauffage, TV écran plat, coffre-fort, lave-linge et sèche-linge."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/apartamentos.php",
+     "quote": "Nuestros apartamentos de 3 habitaciones tienen una superficie de 118,3 m2"
+    },
+    {
+     "url": "https://www.elplantio.com/apartamentos.php",
+     "quote": "Todos los apartamentos disponen de cocina, salón, comedor, aire acondicionado, calefacción, TV de pantalla plana, caja fuerte, lavadora y secadora."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "como llegar"
+    ],
+    "ca": [
+     " on es",
+     "adreca",
+     "ubicacio",
+     "com arribar"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "acces"
+    ]
+   },
+   "a": {
+    "es": "Está en la Antigua Carretera Alicante-Elche, km 3, 03114 Alicante (España).",
+    "ca": "És a l'Antigua Carretera Alicante-Elche, km 3, 03114 Alacant (Espanya).",
+    "en": "It is on the Antigua Carretera Alicante-Elche, km 3, 03114 Alicante (Spain).",
+    "fr": "Il se trouve Antigua Carretera Alicante-Elche, km 3, 03114 Alicante (Espagne)."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/contacto.php",
+     "quote": "Antigua Carretera Alicante-Elche, km 3 03114 Alicante (España)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "piscina",
+   "keys": {
+    "es": [
+     "piscina",
+     "banar",
+     "solarium"
+    ],
+    "ca": [
+     "piscina",
+     "banyar",
+     "solarium"
+    ],
+    "en": [
+     "pool",
+     "swim",
+     "sun terrace"
+    ],
+    "fr": [
+     "piscine",
+     "baignade",
+     "solarium"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay dos piscinas exteriores abiertas todo el año, con solárium.",
+    "ca": "Sí, hi ha dues piscines exteriors obertes tot l'any, amb solàrium.",
+    "en": "Yes, there are two outdoor pools open all year round, with a sun terrace.",
+    "fr": "Oui, il y a deux piscines extérieures ouvertes toute l'année, avec solarium."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/servicios.php",
+     "quote": "Disponemos de dos estupendas piscinas abiertas todo el año con solarium"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcamiento",
+     "aparcar",
+     "coche"
+    ],
+    "ca": [
+     "parking",
+     "parquing",
+     "aparcament",
+     "cotxe"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     " car"
+    ],
+    "fr": [
+     "parking",
+     "stationnement",
+     "voiture"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay parking cubierto con amplias plazas, gratuito si reservas desde su página web.",
+    "ca": "Sí, hi ha pàrquing cobert amb places àmplies, gratuït si reserves des del seu web.",
+    "en": "Yes, there is covered parking with large spaces, free if you book on its website.",
+    "fr": "Oui, il y a un parking couvert aux places spacieuses, gratuit si vous réservez sur son site."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/servicios.php",
+     "quote": "Parking cubierto de muy cómodo acceso y con amplias plazas de aparcamiento, gratuito si realizas la reserva desde nuestra página web."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "restaurante",
+   "keys": {
+    "es": [
+     "restaurante",
+     "comer",
+     "cenar",
+     "casa club"
+    ],
+    "ca": [
+     "restaurant",
+     "menjar",
+     "sopar",
+     "casa club"
+    ],
+    "en": [
+     "restaurant",
+     " eat",
+     "dinner",
+     "club house"
+    ],
+    "fr": [
+     "restaurant",
+     "manger",
+     "diner",
+     "club house"
+    ]
+   },
+   "a": {
+    "es": "Sí, el restaurante ofrece cocina mediterránea con producto de proximidad, y el restaurante de la Casa Club sirve snacks, bocadillos y platos.",
+    "ca": "Sí, el restaurant ofereix cuina mediterrània amb producte de proximitat, i el restaurant de la Casa Club serveix snacks, entrepans i plats.",
+    "en": "Yes, the restaurant serves Mediterranean cuisine with local produce, and the Club House restaurant serves snacks, sandwiches and dishes.",
+    "fr": "Oui, le restaurant propose une cuisine méditerranéenne de produits locaux, et le restaurant du Club House sert snacks, sandwichs et plats."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/restaurante.php",
+     "quote": "Bienvenidos al restaurante de El Plantío Golf, donde la cocina mediterránea se encuentra con la creatividad culinaria en un entorno único."
+    },
+    {
+     "url": "https://www.elplantio.com/restaurante.php",
+     "quote": "En el restaurante de nuestra Casa Club podrás disfrutar de una gran varidad de snacks, bocadillos y platos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "golf",
+   "keys": {
+    "es": [
+     "campo de golf",
+     "golf",
+     "hoyos",
+     "par 3"
+    ],
+    "ca": [
+     "camp de golf",
+     "golf",
+     "forats",
+     "par 3"
+    ],
+    "en": [
+     "golf course",
+     "golf",
+     "holes",
+     "par 3"
+    ],
+    "fr": [
+     "parcours de golf",
+     "golf",
+     "trous",
+     "par 3"
+    ]
+   },
+   "a": {
+    "es": "Sí, El Plantío tiene dos campos: uno de 18 hoyos par 72 championship y otro de 9 hoyos par 27. También hay driving range de 350 metros con 50 bahías y putting green.",
+    "ca": "Sí, El Plantío té dos camps: un de 18 forats par 72 championship i un altre de 9 forats par 27. També hi ha driving range de 350 metres amb 50 badies i putting green.",
+    "en": "Yes, El Plantío has two courses: an 18-hole par 72 championship course and a 9-hole par 27 course. There is also a 350-metre driving range with 50 bays and a putting green.",
+    "fr": "Oui, El Plantío a deux parcours : un 18 trous par 72 championship et un 9 trous par 27. Il y a aussi un driving range de 350 mètres avec 50 postes et un putting green."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/resort.php",
+     "quote": "El Plantío dispone de dos campos de golf, uno de 18 hoyos par 72 championship y otro de 9 hoyos par 27."
+    },
+    {
+     "url": "https://www.elplantio.com/golf-servicios.php",
+     "quote": "Nuestro driving range con 350 metros de largo"
+    },
+    {
+     "url": "https://www.elplantio.com/golf-servicios.php",
+     "quote": "Dispone de 50 bahías"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "escuela",
+   "keys": {
+    "es": [
+     "escuela",
+     "clases",
+     "curso",
+     "aprender"
+    ],
+    "ca": [
+     "escola",
+     "classes",
+     "curs",
+     "aprendre"
+    ],
+    "en": [
+     "school",
+     "lesson",
+     "course for",
+     "learn"
+    ],
+    "fr": [
+     "ecole",
+     "cours",
+     "apprendre",
+     "lecon"
+    ]
+   },
+   "a": {
+    "es": "Sí, la Escuela de golf funciona desde 1993 con profesionales titulados por la Real Federación Española de Golf: cursos de iniciación y perfeccionamiento, clases para niños, cursos intensivos de una semana y clases particulares.",
+    "ca": "Sí, l'Escola de golf funciona des del 1993 amb professionals titulats per la Real Federación Española de Golf: cursos d'iniciació i perfeccionament, classes per a nens, cursos intensius d'una setmana i classes particulars.",
+    "en": "Yes, the Golf School has been running since 1993 with professionals certified by the Royal Spanish Golf Federation: beginner and improvement courses, children's lessons, one-week intensive courses and private lessons.",
+    "fr": "Oui, l'École de golf fonctionne depuis 1993 avec des professionnels diplômés de la Fédération royale espagnole de golf : cours d'initiation et de perfectionnement, cours pour enfants, stages intensifs d'une semaine et cours particuliers."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/escuela.php",
+     "quote": "En continuo crecimiento desde su creación en el año 1993"
+    },
+    {
+     "url": "https://www.elplantio.com/escuela.php",
+     "quote": "Todos nuestros profesionales encargados de impartir las clases están titulados por la Real Federación Española de Golf"
+    },
+    {
+     "url": "https://www.elplantio.com/escuela.php",
+     "quote": "La Escuela de golf de El Plantío Golf ofrece cursos de iniciación, de perfeccionamiento, y también clases para niños."
+    },
+    {
+     "url": "https://www.elplantio.com/escuela.php",
+     "quote": "La escuela ofrece cursos intensivos de una semana; cursos específicos de putt y juego corto, clinics para empresas o clases particulares."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "gimnasio y ocio",
+   "keys": {
+    "es": [
+     "gimnasio",
+     "gym",
+     "futbol",
+     "ping pong",
+     "petanca"
+    ],
+    "ca": [
+     "gimnas",
+     "gym",
+     "futbol",
+     "ping-pong",
+     "petanca"
+    ],
+    "en": [
+     "gym",
+     "fitness",
+     "football",
+     "table tennis",
+     "petanque"
+    ],
+    "fr": [
+     "salle de sport",
+     "fitness",
+     "football",
+     "ping-pong",
+     "petanque"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay gimnasio equipado y renovado, campo de fútbol y una zona de ocio con ping pong, petanca y putting green.",
+    "ca": "Sí, hi ha gimnàs equipat i renovat, camp de futbol i una zona d'oci amb ping-pong, petanca i putting green.",
+    "en": "Yes, there is an equipped, renovated gym, a football pitch and a leisure area with table tennis, pétanque and a putting green.",
+    "fr": "Oui, il y a une salle de sport équipée et rénovée, un terrain de football et un espace de loisirs avec ping-pong, pétanque et putting green."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/servicios.php",
+     "quote": "puedes entrenar en nuestro gimnasio, un espacio perfectamente equipado y renovado."
+    },
+    {
+     "url": "https://www.elplantio.com/servicios.php",
+     "quote": "jugando en nuestro campo de fútbol rodeado de naturaleza"
+    },
+    {
+     "url": "https://www.elplantio.com/servicios.php",
+     "quote": "una zona para poder jugar al ping pong , a la petanca o practicar en el Putting Green"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "eventos",
+   "keys": {
+    "es": [
+     "boda",
+     "evento",
+     "comunion",
+     "celebra"
+    ],
+    "ca": [
+     "casament",
+     "esdeveniment",
+     "comunio",
+     "celebra"
+    ],
+    "en": [
+     "wedding",
+     "event",
+     "meeting",
+     "celebrat"
+    ],
+    "fr": [
+     "mariage",
+     "evenement",
+     "communion",
+     "celebr"
+    ]
+   },
+   "a": {
+    "es": "Sí, organiza bodas, comuniones y eventos de empresa, con cocina de elaboración propia y varios espacios: campo de golf, terraza, zona de fiesta y salón de banquetes. Contacto de eventos: +34 696 06 48 26, eventos@elplantio.com.",
+    "ca": "Sí, organitza casaments, comunions i esdeveniments d'empresa, amb cuina d'elaboració pròpia i diversos espais: camp de golf, terrassa, zona de festa i saló de banquets. Contacte d'esdeveniments: +34 696 06 48 26, eventos@elplantio.com.",
+    "en": "Yes, it hosts weddings, communions and business events, with in-house cuisine and several spaces: golf course, terrace, party area and banquet hall. Events contact: +34 696 06 48 26, eventos@elplantio.com.",
+    "fr": "Oui, il organise mariages, communions et événements d'entreprise, avec une cuisine maison et plusieurs espaces : golf, terrasse, espace fête et salle de banquet. Contact événements : +34 696 06 48 26, eventos@elplantio.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/eventos.php",
+     "quote": "Desde el campo de golf hasta la terraza, pasando por la zona de fiesta y el salón de banquetes."
+    },
+    {
+     "url": "https://www.elplantio.com/eventos.php",
+     "quote": "BODAS, EVENTS & MEETINGS"
+    },
+    {
+     "url": "https://www.elplantio.com/",
+     "quote": "Contacto Eventos Tel.: +34 696 06 48 26 eventos@elplantio.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free apartment",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 965 115 049 o escribir a reservas@elplantio.com. Reservando en su web, el parking cubierto es gratuito y hay late checkout a las 14 h. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 965 115 049 o escriure a reservas@elplantio.com. Reservant al seu web, el pàrquing cobert és gratuït i hi ha late checkout a les 14 h. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book on its booking engine (Book button), call +34 965 115 049 or email reservas@elplantio.com. Booking on its website gives free covered parking and late checkout at 14 h. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 965 115 049 ou écrire à reservas@elplantio.com. En réservant sur son site, le parking couvert est gratuit et le départ tardif est à 14h. Cet assistant ne confirme ni disponibilités ni réservations."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/",
+     "quote": "Tel.: +34 965 115 049"
+    },
+    {
+     "url": "https://www.elplantio.com/",
+     "quote": "reservas@elplantio.com"
+    },
+    {
+     "url": "https://www.elplantio.com/",
+     "quote": "Ventajas al reservar desde nuestra web PARKING CUBIERTO GRATUITO LATE CHECKOUT 14 H"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif"
+    ]
+   },
+   "a": {
+    "es": "Según su política de privacidad, el titular es PAY AND PLAY SL, NIF B53479457, inscrita en el Registro Mercantil de Alicante. Licencia turística AA-646.",
+    "ca": "Segons la seva política de privacitat, el titular és PAY AND PLAY SL, NIF B53479457, inscrita al Registre Mercantil d'Alacant. Llicència turística AA-646.",
+    "en": "According to its privacy policy, the owner is PAY AND PLAY SL, tax ID B53479457, registered in the Alicante Commercial Registry. Tourist licence AA-646.",
+    "fr": "Selon sa politique de confidentialité, le titulaire est PAY AND PLAY SL, NIF B53479457, inscrite au Registre du commerce d'Alicante. Licence touristique AA-646."
+   },
+   "sources": [
+    {
+     "url": "https://www.elplantio.com/cookies_politica.php",
+     "quote": "Denominación social: PAY AND PLAY SL Número de identificación fiscal: B53479457 Inscrita en el Registro Mercantil de Alicante"
+    },
+    {
+     "url": "https://www.elplantio.com/",
+     "quote": "Licencia turística AA-646"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
